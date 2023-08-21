@@ -1,0 +1,31 @@
+{
+    "message": [
+        {
+            "app_name": "",
+            "packagename": "",
+            "admob_banner": "",
+            "admob_banner1": "",
+            "admob_inter": "",
+            "admob_inter1": "",
+            "admob_reward": "",
+            "admob_reward1": "",
+            "admob_native": "",
+            "admob_native1": "",
+            "admob_intervid": "",
+            "fb_banner": "",
+            "fb_banner1": "",
+            "fb_inter": "",
+            "fb_inter1": "",
+            "fb_native": "",
+            "fb_native1": "",
+            "fb_reward": "",
+            "fb_reward1": "",
+            "fb_intervid": "",
+            "fb_nativebanner": "",
+            "console": "",
+            "privacy_policy": "",
+            "banner_otherapp_show": "",
+            "link_otherapp_package_name": ""
+        }
+    ]
+}
